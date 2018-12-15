@@ -2,27 +2,33 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
- - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+- Manifestation : CodeursEnSeine 2018
+- Lieu : Kindarena
+- Conférence : Management dans le sport
+- Horaire de la conférence : 9 heures
+- Durée de la conférence : 45 minutes
+- Conférencier(s) :
+  - Guy Fournier ([Page Wikipédia](https://fr.wikipedia.org/wiki/Guy_Fournier_(hockey_sur_glace)))
+- Audience : Plus de 200 personnes
+- Auteur du billet : Salim Talout Zitan
+- Mots-clés :
+  - Management
+  - Formation
+  - Recrutement
+  - Stratégie
+  - Objectifs
+- URL de l'illustration : ![Management](management.jpg) Photo prise par [@rawpixel](https://unsplash.com/@rawpixel)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+
+- Lien vers le support (diapos) présenté en conférence
+- Nombre de diapos du support :
+- Plan du support :
 
 ## Résumé
+
 ...
 
 ## Architecture et facteur qualité
+
 ...
