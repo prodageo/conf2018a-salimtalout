@@ -41,4 +41,4 @@ Quant à la définition des objectifs, il conseille de définir des objectifs at
 
 ## Architecture et facteur qualité
 
-Cette conférence permet de répondre au besoin d’amélioration continue et de la méthode de travail d’une entreprise, afin d’augmenter ses performances, mais également de disposer des employés satisfaits.
+Cette conférence permet de répondre au besoin d’amélioration continue et de la méthode de travail d’une entreprise, afin d’augmenter ses performances, mais également de disposer d'employés satisfaits.
