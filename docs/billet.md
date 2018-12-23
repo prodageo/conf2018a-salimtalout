@@ -22,22 +22,23 @@
 
 ## Support
 
-- Lien vers le support (diapos) présenté en conférence
-- Nombre de diapos du support :
+- Lien vers le support (diapos) présenté en conférence : **Pas disponible**
+- Nombre de diapos du support : une dizaine
 - Plan du support :
 
 ## Résumé
 
 Cette conférence a pour but de présenter des méthodes de management, et ce, en s’appuyant sur le management d’une équipe sportive. Le présentateur est le manager général de l’équipe des Dragons de Rouen, l’équipe de hockey sur glace de la ville.
 
-Afin de gérer son équipe de la meilleure des manières possible, et d’ainsi arriver à une équipe efficace, il conseille de passer par 5 axes principaux : le recrutement, la formation, la définition des objectifs, la stratégie, ainsi que le travail d’équipe.
+Afin de gérer son équipe de la meilleure des manières possible, et d’ainsi obtenir une équipe efficace, il conseille de passer par 5 axes principaux : le recrutement, la formation, la définition des objectifs, la stratégie, ainsi que le travail d’équipe.
 
-Lors de la phase de recrutement, il est fortement conseillé de consacrer une somme prédéfinie afin de recruter des personnes talentueuses, qui pourront tirer l’équipe vers le haut, de part leurs compétences. De plus, il est nécessaire de recruter des personnes complémentaires, qui pourront se compléter.  Ainsi, en multipliant les profils, il est possible d’exploiter une plus large panoplie d’atouts. Finalement, il conseille de mettre son équipe dans les meilleures conditions possibles, afin qu’ils puissent exploiter leurs ressources de manière efficace. 
+Lors de la phase de recrutement, il est fortement conseillé de consacrer un budget prédéfini afin de recruter des personnes talentueuses, qui pourront tirer l’équipe vers le haut, de part leurs compétences et leur talent. De plus, il est nécessaire de recruter des personnes complémentaires, qui pourront se compléter.  Ainsi, en multipliant les profils, il est possible d’exploiter une plus large panoplie d’atouts. Finalement, il conseille de mettre son équipe dans les meilleures conditions possibles, afin qu’ils puissent exploiter leurs ressources de manière efficace. 
 
 Pour établir une stratégie, Guy Fournier conseille de s’adapter en fonction de ses ressources, mais aussi de jouer sur la surprise.
 
 Quant à la définition des objectifs, il conseille de définir des objectifs atteignables, mais challengeants.
 
+Il nous conseille également de créer un cadre convivial afin que l'équipe soit soudée pendant, et en dehors du travail.
 
 ## Architecture et facteur qualité
 
