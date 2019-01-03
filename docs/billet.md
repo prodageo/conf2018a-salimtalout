@@ -25,6 +25,12 @@
 - Lien vers le support (diapos) présenté en conférence : **Pas disponible**
 - Nombre de diapos du support : une dizaine
 - Plan du support :
+  - Présentation des Dragons de Rouen
+  - Recrutement
+  - Formation
+  - Définition des objectifs
+  - Stratégie
+  - Travail d'équipe
 
 ## Résumé
 
