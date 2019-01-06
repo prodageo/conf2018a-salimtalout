@@ -46,6 +46,8 @@ Quant à la définition des objectifs, il conseille de définir des objectifs at
 
 Il nous conseille également de créer un cadre convivial afin que l'équipe soit soudée pendant, et en dehors du travail.
 
+Guy Fournier fait le lien entre l'équipe sportive et l'entreprise classique, nous rappelant que l'on pourrait appliquer tous ses conseils en tant que manager d'entreprise.
+
 ## Architecture et facteur qualité
 
 Cette conférence permet de répondre au besoin d’amélioration continue et de la méthode de travail d’une entreprise, afin d’augmenter ses performances, mais également de disposer d'employés satisfaits.
